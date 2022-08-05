@@ -1,0 +1,3 @@
+isthmuslib==0.0.82
+matplotlib
+jupyter
